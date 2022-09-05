@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
  + **Telegram:** [@aospiridonov](https://t.me/aospiridonov)   
  + **E-mail:** [aospiridonov@gmail.com](mailto:aospiridonov@gmail.com)  
- + **GitHub:** [aospiridonov](https://github.com/aospiridonov/)  
+ + **GitHub:** [aospiridonov](https://github.com/aospiridonov/)
+ + **LeetCode:** [aospiridonov](https://leetcode.com/aospiridonov/)
+ + **Codewars:** [aospiridonov](https://www.codewars.com/users/aospiridonov/)  
  + **Gist:** [aospiridonov](https://gist.github.com/aospiridonov)    
  + **Scopus:** [Spiridonov, Alexander O.](https://www.scopus.com/authid/detail.uri?authorId=55587650900)
  + **ResearchGate:** [Alexander Spiridonov](https://www.researchgate.net/profile/Alexander-Spiridonov)
