@@ -19,7 +19,7 @@ Here are some ideas to get you started:
  + **Gist:** [aospiridonov](https://gist.github.com/aospiridonov)    
  + **Scopus:** [Spiridonov, Alexander O.](https://www.scopus.com/authid/detail.uri?authorId=55587650900)
  + **ResearchGate:** [Alexander Spiridonov](https://www.researchgate.net/profile/Alexander-Spiridonov)
-- ⚡ Fun fact: I have PhD degree and several publications in international journals.
+- ⚡ Fun fact: I have PhD degree and 32 publications in international journals.
 
 ### 📈 Scores & Stats  
   
