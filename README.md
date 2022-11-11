@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ### 📈 Scores & Stats  
   
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=aospiridonov&count_private=true&theme=default&show_icons=true)](https://github.com/aospiridonov)  
-[![LeetCode user aospiridonov](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faospiridonov&logo=leetcode&logoColor=yellow)](https://leetcode.com/aospiridonov/)
+[![LeetCode user aospiridonov](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Faospiridonov&logo=leetcode&logoColor=yellow)](https://leetcode.com/aospiridonov/)![image](https://www.codewars.com/users/aospiridonov/badges/micro)
