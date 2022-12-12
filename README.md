@@ -5,6 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
+    - [bluez.dart](https://github.com/aospiridonov/bluez.dart)
     - [pipewire.dart](https://github.com/aospiridonov/pipewire.dart)
     - [xdg_desktop_portal.dart](https://github.com/aospiridonov/xdg_desktop_portal.dart)
 - 🌱 I’m currently learning ...
